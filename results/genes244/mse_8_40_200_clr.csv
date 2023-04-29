@@ -1,0 +1,1801 @@
+mse,corr,shrink
+0.000479331878521816,covariance,no shrinkage
+4.45684025768601e-05,covariance,shrink std
+4.23612696468262e-05,covariance,shrink basis
+0.14635913534676,correlation,no shrinkage
+0.0189088449347992,correlation,shrink std
+0.018289628681478,correlation,shrink basis
+0.171713230816168,partial correlation,no shrinkage
+0.00383806159568612,partial correlation,shrink std
+0.0031711454808247,partial correlation,shrink basis
+0.000470346315559436,covariance,no shrinkage
+4.04897008242423e-05,covariance,shrink std
+3.95809656389751e-05,covariance,shrink basis
+0.136009191742894,correlation,no shrinkage
+0.0130961922128094,correlation,shrink std
+0.0130056019118152,correlation,shrink basis
+0.160541189259804,partial correlation,no shrinkage
+0.00424955783560781,partial correlation,shrink std
+0.00364709570791162,partial correlation,shrink basis
+0.000759830936856681,covariance,no shrinkage
+4.29254386470447e-05,covariance,shrink std
+4.26526034198112e-05,covariance,shrink basis
+0.139027964741233,correlation,no shrinkage
+0.0160294409142543,correlation,shrink std
+0.0157395278801568,correlation,shrink basis
+0.164779534148363,partial correlation,no shrinkage
+0.00330103686232951,partial correlation,shrink std
+0.00275969113668293,partial correlation,shrink basis
+0.000774170328428384,covariance,no shrinkage
+5.86402580120209e-05,covariance,shrink std
+5.82247734755086e-05,covariance,shrink basis
+0.143812282931172,correlation,no shrinkage
+0.0128328572779747,correlation,shrink std
+0.0125788292639907,correlation,shrink basis
+0.180243391128377,partial correlation,no shrinkage
+0.00427293166759522,partial correlation,shrink std
+0.00357827063341836,partial correlation,shrink basis
+0.000713169902154636,covariance,no shrinkage
+7.29287146520737e-05,covariance,shrink std
+6.80991628529308e-05,covariance,shrink basis
+0.155366198812995,correlation,no shrinkage
+0.0198057199173352,correlation,shrink std
+0.0192595568151142,correlation,shrink basis
+0.174006705361218,partial correlation,no shrinkage
+0.00470560053505127,partial correlation,shrink std
+0.00407745150270827,partial correlation,shrink basis
+0.000247702950826996,covariance,no shrinkage
+2.30682343545429e-05,covariance,shrink std
+2.1856044714004e-05,covariance,shrink basis
+0.133372804934973,correlation,no shrinkage
+0.0121037154227432,correlation,shrink std
+0.0117661515308763,correlation,shrink basis
+0.163234924402165,partial correlation,no shrinkage
+0.00352564009497439,partial correlation,shrink std
+0.00297006770260113,partial correlation,shrink basis
+0.000547491576579358,covariance,no shrinkage
+4.07914678722124e-05,covariance,shrink std
+3.87460342606673e-05,covariance,shrink basis
+0.146128666457102,correlation,no shrinkage
+0.0136805063981774,correlation,shrink std
+0.013252543445131,correlation,shrink basis
+0.152593270043699,partial correlation,no shrinkage
+0.00314001127236867,partial correlation,shrink std
+0.00251371191244645,partial correlation,shrink basis
+0.000672478222439305,covariance,no shrinkage
+4.22674955563213e-05,covariance,shrink std
+4.06066605009444e-05,covariance,shrink basis
+0.133437724511292,correlation,no shrinkage
+0.0132342854826835,correlation,shrink std
+0.0137862616670043,correlation,shrink basis
+0.159126068855482,partial correlation,no shrinkage
+0.00329579449916515,partial correlation,shrink std
+0.00283623955737207,partial correlation,shrink basis
+0.000637131159517027,covariance,no shrinkage
+4.40333292949181e-05,covariance,shrink std
+4.37614070309245e-05,covariance,shrink basis
+0.133507723608979,correlation,no shrinkage
+0.0163466383513854,correlation,shrink std
+0.0170166347665326,correlation,shrink basis
+0.183938069013194,partial correlation,no shrinkage
+0.00366375785994774,partial correlation,shrink std
+0.00311874103722268,partial correlation,shrink basis
+0.000687002214624291,covariance,no shrinkage
+5.87797345003177e-05,covariance,shrink std
+5.87063492995388e-05,covariance,shrink basis
+0.16247023233728,correlation,no shrinkage
+0.0185390239182784,correlation,shrink std
+0.0179267619643713,correlation,shrink basis
+0.21181524989258,partial correlation,no shrinkage
+0.00426370730553502,partial correlation,shrink std
+0.00357789318180645,partial correlation,shrink basis
+0.000579767580128632,covariance,no shrinkage
+3.74503427165825e-05,covariance,shrink std
+3.39120148859425e-05,covariance,shrink basis
+0.132990596004713,correlation,no shrinkage
+0.0129215298990132,correlation,shrink std
+0.0122394907116463,correlation,shrink basis
+0.172336668289328,partial correlation,no shrinkage
+0.0036510172897649,partial correlation,shrink std
+0.00289842327658078,partial correlation,shrink basis
+0.000334175494454084,covariance,no shrinkage
+2.93445865815091e-05,covariance,shrink std
+2.91548994227401e-05,covariance,shrink basis
+0.139515500373624,correlation,no shrinkage
+0.016581618002105,correlation,shrink std
+0.0169952166413996,correlation,shrink basis
+0.177755572982299,partial correlation,no shrinkage
+0.00370349974857299,partial correlation,shrink std
+0.0031373686679546,partial correlation,shrink basis
+0.00083096077446902,covariance,no shrinkage
+3.73141341565064e-05,covariance,shrink std
+3.5790564261292e-05,covariance,shrink basis
+0.137978517639435,correlation,no shrinkage
+0.0127752240638412,correlation,shrink std
+0.0127579968965675,correlation,shrink basis
+0.153398724941831,partial correlation,no shrinkage
+0.00286736122866762,partial correlation,shrink std
+0.00221039835983399,partial correlation,shrink basis
+0.000531195984377897,covariance,no shrinkage
+4.30831443274938e-05,covariance,shrink std
+4.16066734144574e-05,covariance,shrink basis
+0.137480547666711,correlation,no shrinkage
+0.0165705374520833,correlation,shrink std
+0.0157890141398372,correlation,shrink basis
+0.176985776705417,partial correlation,no shrinkage
+0.00354672837380451,partial correlation,shrink std
+0.00293694825832775,partial correlation,shrink basis
+0.000511747233213014,covariance,no shrinkage
+4.02642744931428e-05,covariance,shrink std
+3.96160204538475e-05,covariance,shrink basis
+0.130414182754903,correlation,no shrinkage
+0.0149895829594544,correlation,shrink std
+0.0150969321423318,correlation,shrink basis
+0.169921375947704,partial correlation,no shrinkage
+0.00354318039327812,partial correlation,shrink std
+0.00295350311300844,partial correlation,shrink basis
+0.000594905657845879,covariance,no shrinkage
+4.4669647529175e-05,covariance,shrink std
+4.25033750601699e-05,covariance,shrink basis
+0.140709507353906,correlation,no shrinkage
+0.0173915085975625,correlation,shrink std
+0.0169573839433736,correlation,shrink basis
+0.163179802372786,partial correlation,no shrinkage
+0.00412106357647408,partial correlation,shrink std
+0.0034586038145038,partial correlation,shrink basis
+0.000523333015175212,covariance,no shrinkage
+2.77842659570497e-05,covariance,shrink std
+2.75967678534519e-05,covariance,shrink basis
+0.140965983842918,correlation,no shrinkage
+0.0120064807201809,correlation,shrink std
+0.0119670411749165,correlation,shrink basis
+0.172736098410898,partial correlation,no shrinkage
+0.00322872617833075,partial correlation,shrink std
+0.00271646344054278,partial correlation,shrink basis
+0.000312925959635242,covariance,no shrinkage
+4.02737480203103e-05,covariance,shrink std
+3.81097752578648e-05,covariance,shrink basis
+0.138410779948269,correlation,no shrinkage
+0.0158628825299375,correlation,shrink std
+0.015232394584112,correlation,shrink basis
+0.166305797738436,partial correlation,no shrinkage
+0.00348557279316864,partial correlation,shrink std
+0.00266704000551168,partial correlation,shrink basis
+0.000707184431089436,covariance,no shrinkage
+6.6049401995576e-05,covariance,shrink std
+5.08581095049907e-05,covariance,shrink basis
+0.141415963829683,correlation,no shrinkage
+0.017060451129161,correlation,shrink std
+0.0137603699227876,correlation,shrink basis
+0.158497630406421,partial correlation,no shrinkage
+0.00434641649141093,partial correlation,shrink std
+0.00337417921890765,partial correlation,shrink basis
+0.000352411704098996,covariance,no shrinkage
+3.76194241551362e-05,covariance,shrink std
+3.62985356522882e-05,covariance,shrink basis
+0.132778161241813,correlation,no shrinkage
+0.0160716067460413,correlation,shrink std
+0.0161645645031459,correlation,shrink basis
+0.155858992492104,partial correlation,no shrinkage
+0.00330568071563859,partial correlation,shrink std
+0.00281705069572393,partial correlation,shrink basis
+0.00053440363562683,covariance,no shrinkage
+4.53558413239316e-05,covariance,shrink std
+4.42972741528407e-05,covariance,shrink basis
+0.137296659868232,correlation,no shrinkage
+0.0134775714371896,correlation,shrink std
+0.0133795132149896,correlation,shrink basis
+0.155808632596433,partial correlation,no shrinkage
+0.00373333905204578,partial correlation,shrink std
+0.0030337424148867,partial correlation,shrink basis
+0.000673115821125393,covariance,no shrinkage
+6.06116306812972e-05,covariance,shrink std
+5.74288064424091e-05,covariance,shrink basis
+0.146367270851769,correlation,no shrinkage
+0.017526860065438,correlation,shrink std
+0.0168315103892478,correlation,shrink basis
+0.181855499881201,partial correlation,no shrinkage
+0.00357504445651621,partial correlation,shrink std
+0.00282029978071138,partial correlation,shrink basis
+0.000513289515677615,covariance,no shrinkage
+3.46760168503113e-05,covariance,shrink std
+3.2016071873315e-05,covariance,shrink basis
+0.13481494051608,correlation,no shrinkage
+0.0105779267864445,correlation,shrink std
+0.0102308910820391,correlation,shrink basis
+0.152996315512916,partial correlation,no shrinkage
+0.00347435279656836,partial correlation,shrink std
+0.00282415606101291,partial correlation,shrink basis
+0.000596120885766702,covariance,no shrinkage
+3.48871635555831e-05,covariance,shrink std
+3.27734909262611e-05,covariance,shrink basis
+0.14287960725256,correlation,no shrinkage
+0.0128441877899601,correlation,shrink std
+0.0122807210358012,correlation,shrink basis
+0.155907040677172,partial correlation,no shrinkage
+0.00406634107757316,partial correlation,shrink std
+0.00338301008255097,partial correlation,shrink basis
+0.000428312748749548,covariance,no shrinkage
+2.86288398350435e-05,covariance,shrink std
+2.66584302481268e-05,covariance,shrink basis
+0.137752254752139,correlation,no shrinkage
+0.0116044953558691,correlation,shrink std
+0.0114007767368582,correlation,shrink basis
+0.159627897390786,partial correlation,no shrinkage
+0.00281441508929292,partial correlation,shrink std
+0.00222899988326622,partial correlation,shrink basis
+0.000663726540261279,covariance,no shrinkage
+3.54691731407951e-05,covariance,shrink std
+3.31750954451537e-05,covariance,shrink basis
+0.133598606536938,correlation,no shrinkage
+0.0107887767612385,correlation,shrink std
+0.0104489319626694,correlation,shrink basis
+0.165603134405735,partial correlation,no shrinkage
+0.00296739916245767,partial correlation,shrink std
+0.00235482485854688,partial correlation,shrink basis
+0.000921913617328449,covariance,no shrinkage
+7.88769758315074e-05,covariance,shrink std
+7.23241945585902e-05,covariance,shrink basis
+0.143269819758866,correlation,no shrinkage
+0.0183469800799862,correlation,shrink std
+0.0178507333992692,correlation,shrink basis
+0.165731541037768,partial correlation,no shrinkage
+0.00452739099710862,partial correlation,shrink std
+0.00379996728880113,partial correlation,shrink basis
+0.000511511058426443,covariance,no shrinkage
+3.83841702488315e-05,covariance,shrink std
+3.58935518702165e-05,covariance,shrink basis
+0.12488852805129,correlation,no shrinkage
+0.0125049599245203,correlation,shrink std
+0.011611130330639,correlation,shrink basis
+0.158628783461134,partial correlation,no shrinkage
+0.00347187138837795,partial correlation,shrink std
+0.0027175862491592,partial correlation,shrink basis
+0.00059855319510014,covariance,no shrinkage
+4.7968306717311e-05,covariance,shrink std
+5.15732713974661e-05,covariance,shrink basis
+0.133735768778357,correlation,no shrinkage
+0.0174031270893622,correlation,shrink std
+0.0182294037043607,correlation,shrink basis
+0.17563254243393,partial correlation,no shrinkage
+0.00432266807534959,partial correlation,shrink std
+0.0037385171260541,partial correlation,shrink basis
+0.000431980746098474,covariance,no shrinkage
+3.42124215268247e-05,covariance,shrink std
+3.21928838897217e-05,covariance,shrink basis
+0.134606934076993,correlation,no shrinkage
+0.0106842821072536,correlation,shrink std
+0.010463178124879,correlation,shrink basis
+0.158176509086517,partial correlation,no shrinkage
+0.00317298791525366,partial correlation,shrink std
+0.00247597875695964,partial correlation,shrink basis
+0.000399457295984656,covariance,no shrinkage
+4.16834061225057e-05,covariance,shrink std
+3.8136175460167e-05,covariance,shrink basis
+0.139072617210959,correlation,no shrinkage
+0.016642288533243,correlation,shrink std
+0.0158634540785869,correlation,shrink basis
+0.155735969937469,partial correlation,no shrinkage
+0.00419563310616324,partial correlation,shrink std
+0.003457170672818,partial correlation,shrink basis
+0.000371879382480097,covariance,no shrinkage
+3.33266029950602e-05,covariance,shrink std
+3.21710885440825e-05,covariance,shrink basis
+0.139016387897036,correlation,no shrinkage
+0.0145728143325908,correlation,shrink std
+0.0142149516170254,correlation,shrink basis
+0.155166878381263,partial correlation,no shrinkage
+0.00358162524740216,partial correlation,shrink std
+0.00298807683929243,partial correlation,shrink basis
+0.000401795181325165,covariance,no shrinkage
+2.36615053249135e-05,covariance,shrink std
+2.23031430919726e-05,covariance,shrink basis
+0.145048985611535,correlation,no shrinkage
+0.0111473644676887,correlation,shrink std
+0.0109798983393338,correlation,shrink basis
+0.166969576119792,partial correlation,no shrinkage
+0.00301246862040376,partial correlation,shrink std
+0.00247339475214158,partial correlation,shrink basis
+0.000462160899307519,covariance,no shrinkage
+3.09927552993131e-05,covariance,shrink std
+2.72507472101021e-05,covariance,shrink basis
+0.138651950923049,correlation,no shrinkage
+0.0130681179810177,correlation,shrink std
+0.012331646413887,correlation,shrink basis
+0.144657130167846,partial correlation,no shrinkage
+0.00362584268167472,partial correlation,shrink std
+0.00290818138517843,partial correlation,shrink basis
+0.00055165356474867,covariance,no shrinkage
+6.74060436003076e-05,covariance,shrink std
+6.63707674707242e-05,covariance,shrink basis
+0.140027696475808,correlation,no shrinkage
+0.0217928490607147,correlation,shrink std
+0.0216343644832135,correlation,shrink basis
+0.173194828045036,partial correlation,no shrinkage
+0.00353150601832351,partial correlation,shrink std
+0.00296542661375542,partial correlation,shrink basis
+0.000488050421278301,covariance,no shrinkage
+3.52408803541468e-05,covariance,shrink std
+3.20028494270619e-05,covariance,shrink basis
+0.142671166629522,correlation,no shrinkage
+0.0150548800358407,correlation,shrink std
+0.013919905787686,correlation,shrink basis
+0.145069510495158,partial correlation,no shrinkage
+0.00332353078444549,partial correlation,shrink std
+0.00259483281065515,partial correlation,shrink basis
+0.000478272602954816,covariance,no shrinkage
+4.74282885544671e-05,covariance,shrink std
+4.33378514562136e-05,covariance,shrink basis
+0.158625217474432,correlation,no shrinkage
+0.0205335017371112,correlation,shrink std
+0.0193259335013256,correlation,shrink basis
+0.196907433760789,partial correlation,no shrinkage
+0.00450166816848382,partial correlation,shrink std
+0.00369883833532993,partial correlation,shrink basis
+0.000391287249054641,covariance,no shrinkage
+3.44013483533558e-05,covariance,shrink std
+3.15739416570833e-05,covariance,shrink basis
+0.134370722850742,correlation,no shrinkage
+0.0151633381435627,correlation,shrink std
+0.014553206424019,correlation,shrink basis
+0.160054210187806,partial correlation,no shrinkage
+0.00374006384644323,partial correlation,shrink std
+0.00304587071124579,partial correlation,shrink basis
+0.000641831594145952,covariance,no shrinkage
+5.25089240803596e-05,covariance,shrink std
+4.7665929579786e-05,covariance,shrink basis
+0.130860035795129,correlation,no shrinkage
+0.0186302867117848,correlation,shrink std
+0.0169991926851516,correlation,shrink basis
+0.163109783212676,partial correlation,no shrinkage
+0.00342900001070204,partial correlation,shrink std
+0.00263020317955047,partial correlation,shrink basis
+0.000521023885326076,covariance,no shrinkage
+5.16998554369932e-05,covariance,shrink std
+4.61586625471901e-05,covariance,shrink basis
+0.153564894174379,correlation,no shrinkage
+0.0182852603562499,correlation,shrink std
+0.0164081080136173,correlation,shrink basis
+0.230092271884493,partial correlation,no shrinkage
+0.00414519803203251,partial correlation,shrink std
+0.00335982015338816,partial correlation,shrink basis
+0.000745910607577917,covariance,no shrinkage
+6.30530611301187e-05,covariance,shrink std
+6.38581749162971e-05,covariance,shrink basis
+0.152286299865136,correlation,no shrinkage
+0.0161968236577069,correlation,shrink std
+0.0167206894264082,correlation,shrink basis
+0.188173757786821,partial correlation,no shrinkage
+0.00346915400037718,partial correlation,shrink std
+0.00299916552150043,partial correlation,shrink basis
+0.000637427483284948,covariance,no shrinkage
+4.07319242962987e-05,covariance,shrink std
+3.52792894550911e-05,covariance,shrink basis
+0.132316888283706,correlation,no shrinkage
+0.0124600476116676,correlation,shrink std
+0.0115609083485398,correlation,shrink basis
+0.165576668119639,partial correlation,no shrinkage
+0.00433071916341216,partial correlation,shrink std
+0.00348022556209838,partial correlation,shrink basis
+0.000669813545403357,covariance,no shrinkage
+3.87552141665631e-05,covariance,shrink std
+3.61210557355315e-05,covariance,shrink basis
+0.141889256501989,correlation,no shrinkage
+0.00985601677093074,correlation,shrink std
+0.00937457017949222,correlation,shrink basis
+0.154187123937269,partial correlation,no shrinkage
+0.00363749818269112,partial correlation,shrink std
+0.00296310092150836,partial correlation,shrink basis
+0.000843304455921452,covariance,no shrinkage
+4.3264109123959e-05,covariance,shrink std
+4.18840717784158e-05,covariance,shrink basis
+0.135268670846305,correlation,no shrinkage
+0.0123264160245834,correlation,shrink std
+0.0123254768106899,correlation,shrink basis
+0.159505862901567,partial correlation,no shrinkage
+0.00344975082886159,partial correlation,shrink std
+0.00277036639661935,partial correlation,shrink basis
+0.000554335656273443,covariance,no shrinkage
+3.87992896394871e-05,covariance,shrink std
+3.69524778819827e-05,covariance,shrink basis
+0.132792822120464,correlation,no shrinkage
+0.0129546807233721,correlation,shrink std
+0.0127857264072934,correlation,shrink basis
+0.169078023818762,partial correlation,no shrinkage
+0.00356811245877847,partial correlation,shrink std
+0.00292393745328833,partial correlation,shrink basis
+0.000675051092265378,covariance,no shrinkage
+4.5077562457496e-05,covariance,shrink std
+4.33027757264516e-05,covariance,shrink basis
+0.137341904939114,correlation,no shrinkage
+0.0175628743477484,correlation,shrink std
+0.0179816652493986,correlation,shrink basis
+0.191281687639258,partial correlation,no shrinkage
+0.00357757110745175,partial correlation,shrink std
+0.00297124135439356,partial correlation,shrink basis
+0.000467054160183733,covariance,no shrinkage
+2.64938484132227e-05,covariance,shrink std
+2.43969763996696e-05,covariance,shrink basis
+0.139002985694651,correlation,no shrinkage
+0.0104508234038111,correlation,shrink std
+0.00999095644830284,correlation,shrink basis
+0.172299056466974,partial correlation,no shrinkage
+0.00355304420609065,partial correlation,shrink std
+0.00292814631688305,partial correlation,shrink basis
+0.000391835894064661,covariance,no shrinkage
+5.01882137269376e-05,covariance,shrink std
+4.8310554740019e-05,covariance,shrink basis
+0.134221397766447,correlation,no shrinkage
+0.0180166114796184,correlation,shrink std
+0.0181518313996575,correlation,shrink basis
+0.169545872765701,partial correlation,no shrinkage
+0.00437040570971073,partial correlation,shrink std
+0.00356442641526594,partial correlation,shrink basis
+0.000517564163510686,covariance,no shrinkage
+4.45411905863104e-05,covariance,shrink std
+4.31004267541859e-05,covariance,shrink basis
+0.147804083368064,correlation,no shrinkage
+0.0129511044954199,correlation,shrink std
+0.0134744598466327,correlation,shrink basis
+0.178769471774834,partial correlation,no shrinkage
+0.00391024710835837,partial correlation,shrink std
+0.00336204107918026,partial correlation,shrink basis
+0.000729271916200128,covariance,no shrinkage
+3.30360496652499e-05,covariance,shrink std
+2.94778778872114e-05,covariance,shrink basis
+0.150571931547171,correlation,no shrinkage
+0.0124648130053116,correlation,shrink std
+0.0114729896960869,correlation,shrink basis
+0.167976979118348,partial correlation,no shrinkage
+0.00345011303451071,partial correlation,shrink std
+0.00277834175759364,partial correlation,shrink basis
+0.000647241939376236,covariance,no shrinkage
+6.68582179589606e-05,covariance,shrink std
+6.50273736677389e-05,covariance,shrink basis
+0.143462397997885,correlation,no shrinkage
+0.0216460562064754,correlation,shrink std
+0.020537109972361,correlation,shrink basis
+0.188029810959406,partial correlation,no shrinkage
+0.00317753486016282,partial correlation,shrink std
+0.00258957116159994,partial correlation,shrink basis
+0.000552814252467257,covariance,no shrinkage
+4.01052037008629e-05,covariance,shrink std
+3.68963009436348e-05,covariance,shrink basis
+0.128818309737552,correlation,no shrinkage
+0.0131282264755178,correlation,shrink std
+0.0118609990350732,correlation,shrink basis
+0.166410871219789,partial correlation,no shrinkage
+0.00436804170344124,partial correlation,shrink std
+0.00359666776118162,partial correlation,shrink basis
+0.00065705399394165,covariance,no shrinkage
+6.3636314318359e-05,covariance,shrink std
+5.99956953648826e-05,covariance,shrink basis
+0.155328844335558,correlation,no shrinkage
+0.0209154921829327,correlation,shrink std
+0.0214732467894311,correlation,shrink basis
+0.175503949864658,partial correlation,no shrinkage
+0.00428299822989844,partial correlation,shrink std
+0.00371340604020339,partial correlation,shrink basis
+0.00124496801546205,covariance,no shrinkage
+0.000118050934726316,covariance,shrink std
+0.000105008748157335,covariance,shrink basis
+0.148698596554465,correlation,no shrinkage
+0.0194691150033762,correlation,shrink std
+0.0169519812557844,correlation,shrink basis
+0.169004254864283,partial correlation,no shrinkage
+0.00428112259334163,partial correlation,shrink std
+0.00352795995054946,partial correlation,shrink basis
+0.000504271170629364,covariance,no shrinkage
+3.78774192189194e-05,covariance,shrink std
+3.65149812773807e-05,covariance,shrink basis
+0.132195326939482,correlation,no shrinkage
+0.0156887766370229,correlation,shrink std
+0.0150404049128128,correlation,shrink basis
+0.17494616089053,partial correlation,no shrinkage
+0.00366584199550181,partial correlation,shrink std
+0.00290197148329245,partial correlation,shrink basis
+0.000747935571727688,covariance,no shrinkage
+5.86745376458408e-05,covariance,shrink std
+5.47155535552035e-05,covariance,shrink basis
+0.153811686754518,correlation,no shrinkage
+0.0176635365852606,correlation,shrink std
+0.0161095909596097,correlation,shrink basis
+0.161966772120822,partial correlation,no shrinkage
+0.00392590854355098,partial correlation,shrink std
+0.00319337979406482,partial correlation,shrink basis
+0.000524457355992183,covariance,no shrinkage
+4.51106153018687e-05,covariance,shrink std
+4.1796435372625e-05,covariance,shrink basis
+0.150820677705931,correlation,no shrinkage
+0.0164705916825393,correlation,shrink std
+0.0158978467944647,correlation,shrink basis
+0.177088186715096,partial correlation,no shrinkage
+0.00365956947169395,partial correlation,shrink std
+0.00299013515338166,partial correlation,shrink basis
+0.000687392453422337,covariance,no shrinkage
+4.32440718816695e-05,covariance,shrink std
+3.99763144732073e-05,covariance,shrink basis
+0.140760241439727,correlation,no shrinkage
+0.0102311660704993,correlation,shrink std
+0.0100941327024464,correlation,shrink basis
+0.161333112733275,partial correlation,no shrinkage
+0.00353530221746248,partial correlation,shrink std
+0.00288620131033295,partial correlation,shrink basis
+0.0004016749000322,covariance,no shrinkage
+3.57906025363423e-05,covariance,shrink std
+3.22673310644823e-05,covariance,shrink basis
+0.148762400087648,correlation,no shrinkage
+0.0152001872990996,correlation,shrink std
+0.0143840180391463,correlation,shrink basis
+0.168928434788507,partial correlation,no shrinkage
+0.00438265866747858,partial correlation,shrink std
+0.00362461114372671,partial correlation,shrink basis
+0.000513269841652223,covariance,no shrinkage
+3.59817038365673e-05,covariance,shrink std
+3.85402523558202e-05,covariance,shrink basis
+0.138333466772476,correlation,no shrinkage
+0.0137541287016096,correlation,shrink std
+0.0150303477101365,correlation,shrink basis
+0.164827442370083,partial correlation,no shrinkage
+0.00366462040887165,partial correlation,shrink std
+0.00309970265483189,partial correlation,shrink basis
+0.000545351038611053,covariance,no shrinkage
+3.97204905067906e-05,covariance,shrink std
+3.70481178292066e-05,covariance,shrink basis
+0.131721972131215,correlation,no shrinkage
+0.013983425017374,correlation,shrink std
+0.013351483500956,correlation,shrink basis
+0.175385705547497,partial correlation,no shrinkage
+0.00363163766291449,partial correlation,shrink std
+0.00276868355073517,partial correlation,shrink basis
+0.000906497643048039,covariance,no shrinkage
+6.16994031759344e-05,covariance,shrink std
+5.72890288437298e-05,covariance,shrink basis
+0.155770804645769,correlation,no shrinkage
+0.0167382656156541,correlation,shrink std
+0.0159094703379885,correlation,shrink basis
+0.185796249177504,partial correlation,no shrinkage
+0.00400391060025884,partial correlation,shrink std
+0.00332592266407418,partial correlation,shrink basis
+0.000561751697411561,covariance,no shrinkage
+6.14970516394949e-05,covariance,shrink std
+6.22578444752782e-05,covariance,shrink basis
+0.147995057967775,correlation,no shrinkage
+0.0197699124412117,correlation,shrink std
+0.0193412862189526,correlation,shrink basis
+0.183542810558881,partial correlation,no shrinkage
+0.0043783725525751,partial correlation,shrink std
+0.00381354368655157,partial correlation,shrink basis
+0.000418088352905125,covariance,no shrinkage
+3.22530341342493e-05,covariance,shrink std
+3.17580473140305e-05,covariance,shrink basis
+0.139353991053155,correlation,no shrinkage
+0.0147138744081686,correlation,shrink std
+0.014555051027215,correlation,shrink basis
+0.16331812358732,partial correlation,no shrinkage
+0.00333955747760717,partial correlation,shrink std
+0.00278804720821551,partial correlation,shrink basis
+0.000505145350573184,covariance,no shrinkage
+2.38325790679776e-05,covariance,shrink std
+1.92625745298495e-05,covariance,shrink basis
+0.134416941538862,correlation,no shrinkage
+0.00951795570243512,correlation,shrink std
+0.00836737694873409,correlation,shrink basis
+0.181103609868708,partial correlation,no shrinkage
+0.00319402639924151,partial correlation,shrink std
+0.00224629094101889,partial correlation,shrink basis
+0.000474046499203629,covariance,no shrinkage
+4.61509713813349e-05,covariance,shrink std
+4.40197702461611e-05,covariance,shrink basis
+0.131761386988323,correlation,no shrinkage
+0.0183405498784905,correlation,shrink std
+0.0184609343835297,correlation,shrink basis
+0.152983610538637,partial correlation,no shrinkage
+0.00376178730048696,partial correlation,shrink std
+0.00299998487299148,partial correlation,shrink basis
+0.000586694588169809,covariance,no shrinkage
+4.31919482167649e-05,covariance,shrink std
+3.9621242860214e-05,covariance,shrink basis
+0.142765386324191,correlation,no shrinkage
+0.0140985733790684,correlation,shrink std
+0.0132316022727262,correlation,shrink basis
+0.154818992760954,partial correlation,no shrinkage
+0.00348079678355495,partial correlation,shrink std
+0.0027277627774024,partial correlation,shrink basis
+0.000497835710622015,covariance,no shrinkage
+2.82241473612519e-05,covariance,shrink std
+2.60864087237843e-05,covariance,shrink basis
+0.12917863417442,correlation,no shrinkage
+0.0144857636684824,correlation,shrink std
+0.0136054050591998,correlation,shrink basis
+0.165483039217206,partial correlation,no shrinkage
+0.00328414425532656,partial correlation,shrink std
+0.00259657171381534,partial correlation,shrink basis
+0.000654452386676816,covariance,no shrinkage
+3.12284219068999e-05,covariance,shrink std
+2.99407178944044e-05,covariance,shrink basis
+0.137050315520764,correlation,no shrinkage
+0.0138010826011983,correlation,shrink std
+0.0135097374546228,correlation,shrink basis
+0.183730899442108,partial correlation,no shrinkage
+0.00328343445487956,partial correlation,shrink std
+0.0026722323668906,partial correlation,shrink basis
+0.000525478589869259,covariance,no shrinkage
+3.45183396891239e-05,covariance,shrink std
+3.20876002972444e-05,covariance,shrink basis
+0.135389617678651,correlation,no shrinkage
+0.0127446917110739,correlation,shrink std
+0.0123922510386487,correlation,shrink basis
+0.157400835210466,partial correlation,no shrinkage
+0.00348625838619467,partial correlation,shrink std
+0.00284601401817734,partial correlation,shrink basis
+0.000920241743753809,covariance,no shrinkage
+5.39199838348668e-05,covariance,shrink std
+4.27463934821827e-05,covariance,shrink basis
+0.142112411888183,correlation,no shrinkage
+0.0123947290899586,correlation,shrink std
+0.0112517022254831,correlation,shrink basis
+0.154937241401982,partial correlation,no shrinkage
+0.00376863499055269,partial correlation,shrink std
+0.00295232498069728,partial correlation,shrink basis
+0.00055611089650045,covariance,no shrinkage
+4.3559940327312e-05,covariance,shrink std
+4.08546648160377e-05,covariance,shrink basis
+0.134350106961832,correlation,no shrinkage
+0.0161714489187331,correlation,shrink std
+0.0154517768057313,correlation,shrink basis
+0.168049573555911,partial correlation,no shrinkage
+0.0035536238614503,partial correlation,shrink std
+0.00275076816571482,partial correlation,shrink basis
+0.000581119463855422,covariance,no shrinkage
+2.69750658220361e-05,covariance,shrink std
+2.42050711229552e-05,covariance,shrink basis
+0.132340775349951,correlation,no shrinkage
+0.00932148661494354,correlation,shrink std
+0.00907820530578653,correlation,shrink basis
+0.145716030713581,partial correlation,no shrinkage
+0.00313921406334414,partial correlation,shrink std
+0.00254534443956586,partial correlation,shrink basis
+0.000516782943848243,covariance,no shrinkage
+4.49129664755999e-05,covariance,shrink std
+4.39495979245558e-05,covariance,shrink basis
+0.138161950290049,correlation,no shrinkage
+0.0156214036850883,correlation,shrink std
+0.0146102486534699,correlation,shrink basis
+0.1667444693837,partial correlation,no shrinkage
+0.00438856058557951,partial correlation,shrink std
+0.00355174298758978,partial correlation,shrink basis
+0.000442294774245345,covariance,no shrinkage
+4.37296404152006e-05,covariance,shrink std
+4.22024514618112e-05,covariance,shrink basis
+0.150561141527471,correlation,no shrinkage
+0.0167828823276756,correlation,shrink std
+0.0159806079075345,correlation,shrink basis
+0.168437219261801,partial correlation,no shrinkage
+0.00409038766971203,partial correlation,shrink std
+0.00342111083887398,partial correlation,shrink basis
+0.000535557027686317,covariance,no shrinkage
+3.94034704364017e-05,covariance,shrink std
+3.56956245229251e-05,covariance,shrink basis
+0.142978652484817,correlation,no shrinkage
+0.0134557659375002,correlation,shrink std
+0.0130403702214615,correlation,shrink basis
+0.149504696695089,partial correlation,no shrinkage
+0.00384865806609072,partial correlation,shrink std
+0.00310726621572773,partial correlation,shrink basis
+0.00072138777780455,covariance,no shrinkage
+3.99529466127928e-05,covariance,shrink std
+3.55304512880192e-05,covariance,shrink basis
+0.130742644745348,correlation,no shrinkage
+0.0125641827998448,correlation,shrink std
+0.0116392919454661,correlation,shrink basis
+0.172689331938437,partial correlation,no shrinkage
+0.00426057951292029,partial correlation,shrink std
+0.00346449647053836,partial correlation,shrink basis
+0.000690838655609938,covariance,no shrinkage
+6.28541850185957e-05,covariance,shrink std
+5.78856920271346e-05,covariance,shrink basis
+0.148394570048173,correlation,no shrinkage
+0.0210847364818164,correlation,shrink std
+0.0187289572875909,correlation,shrink basis
+0.171328167122204,partial correlation,no shrinkage
+0.00463146502896813,partial correlation,shrink std
+0.00374692246397762,partial correlation,shrink basis
+0.000596398547698301,covariance,no shrinkage
+3.30319086457612e-05,covariance,shrink std
+2.78200075816477e-05,covariance,shrink basis
+0.14451544499787,correlation,no shrinkage
+0.0156171318086755,correlation,shrink std
+0.0140211345722058,correlation,shrink basis
+0.179549430005784,partial correlation,no shrinkage
+0.00321781501917219,partial correlation,shrink std
+0.00233462464665737,partial correlation,shrink basis
+0.000498286007276314,covariance,no shrinkage
+5.9041557347154e-05,covariance,shrink std
+5.63874040156951e-05,covariance,shrink basis
+0.14440374472359,correlation,no shrinkage
+0.0180185259881798,correlation,shrink std
+0.0172189431561844,correlation,shrink basis
+0.170712112293876,partial correlation,no shrinkage
+0.00423510239824488,partial correlation,shrink std
+0.00353863079189298,partial correlation,shrink basis
+0.000463583580073606,covariance,no shrinkage
+3.11385254624428e-05,covariance,shrink std
+2.9318390780433e-05,covariance,shrink basis
+0.131060836074309,correlation,no shrinkage
+0.0139491110784132,correlation,shrink std
+0.013461655695315,correlation,shrink basis
+0.16673762003917,partial correlation,no shrinkage
+0.00351932355303835,partial correlation,shrink std
+0.00283206366686689,partial correlation,shrink basis
+0.000566852947748807,covariance,no shrinkage
+3.58972212060436e-05,covariance,shrink std
+2.90912708820788e-05,covariance,shrink basis
+0.142719606396515,correlation,no shrinkage
+0.0129322423121204,correlation,shrink std
+0.0110808609280467,correlation,shrink basis
+0.169392478643178,partial correlation,no shrinkage
+0.00376435784636757,partial correlation,shrink std
+0.00292788109424058,partial correlation,shrink basis
+0.000430070368001568,covariance,no shrinkage
+2.97339642264252e-05,covariance,shrink std
+2.91511946767249e-05,covariance,shrink basis
+0.136452305470388,correlation,no shrinkage
+0.0117841070778287,correlation,shrink std
+0.0121341953207791,correlation,shrink basis
+0.163005911630052,partial correlation,no shrinkage
+0.00402488891617813,partial correlation,shrink std
+0.00353381895288886,partial correlation,shrink basis
+0.000344574299060111,covariance,no shrinkage
+2.98483252114581e-05,covariance,shrink std
+3.03789129035526e-05,covariance,shrink basis
+0.140736734859256,correlation,no shrinkage
+0.0141002694326019,correlation,shrink std
+0.0147978435911377,correlation,shrink basis
+0.160801860776778,partial correlation,no shrinkage
+0.00327328473956595,partial correlation,shrink std
+0.0028627911428792,partial correlation,shrink basis
+0.00044077660790444,covariance,no shrinkage
+3.74362567217908e-05,covariance,shrink std
+4.03057354356576e-05,covariance,shrink basis
+0.150734864441019,correlation,no shrinkage
+0.0172973511914919,correlation,shrink std
+0.0187033655282224,correlation,shrink basis
+0.157714845607776,partial correlation,no shrinkage
+0.00424953681325757,partial correlation,shrink std
+0.00387363561965078,partial correlation,shrink basis
+0.00062716897199174,covariance,no shrinkage
+6.11966884195804e-05,covariance,shrink std
+6.07293144541272e-05,covariance,shrink basis
+0.142426339489146,correlation,no shrinkage
+0.0167279914963996,correlation,shrink std
+0.0168174300586647,correlation,shrink basis
+0.151379396493215,partial correlation,no shrinkage
+0.00399824082354684,partial correlation,shrink std
+0.00325460112695648,partial correlation,shrink basis
+0.000650142668425447,covariance,no shrinkage
+5.42658088431372e-05,covariance,shrink std
+5.5734142789901e-05,covariance,shrink basis
+0.145952407124643,correlation,no shrinkage
+0.0195152363814655,correlation,shrink std
+0.0201760416446613,correlation,shrink basis
+0.197540516072786,partial correlation,no shrinkage
+0.00366755415546263,partial correlation,shrink std
+0.00304494798685667,partial correlation,shrink basis
+0.000351510265016808,covariance,no shrinkage
+3.40624507680581e-05,covariance,shrink std
+3.28455879687442e-05,covariance,shrink basis
+0.146538117219733,correlation,no shrinkage
+0.0213147356150148,correlation,shrink std
+0.0205992822949536,correlation,shrink basis
+0.189603724006948,partial correlation,no shrinkage
+0.00336702437858046,partial correlation,shrink std
+0.00283024624385477,partial correlation,shrink basis
+0.000846349938552583,covariance,no shrinkage
+3.8488927981765e-05,covariance,shrink std
+3.44669209393546e-05,covariance,shrink basis
+0.141829859245648,correlation,no shrinkage
+0.0149441565102131,correlation,shrink std
+0.0138397432938659,correlation,shrink basis
+0.199997831362639,partial correlation,no shrinkage
+0.00332083861751638,partial correlation,shrink std
+0.00259836600703016,partial correlation,shrink basis
+0.000457087619714364,covariance,no shrinkage
+3.81055646856453e-05,covariance,shrink std
+3.64223525889327e-05,covariance,shrink basis
+0.14177376270704,correlation,no shrinkage
+0.019614594620329,correlation,shrink std
+0.0190497267586249,correlation,shrink basis
+0.15457467454167,partial correlation,no shrinkage
+0.00307543680534212,partial correlation,shrink std
+0.00249674075530261,partial correlation,shrink basis
+0.000416895362938217,covariance,no shrinkage
+4.22133626850593e-05,covariance,shrink std
+4.06329410280924e-05,covariance,shrink basis
+0.148166919989316,correlation,no shrinkage
+0.0136812463346751,correlation,shrink std
+0.0136230777803648,correlation,shrink basis
+0.158500945839926,partial correlation,no shrinkage
+0.00372307397168016,partial correlation,shrink std
+0.00312415195134812,partial correlation,shrink basis
+0.000477787488855037,covariance,no shrinkage
+4.54517013783975e-05,covariance,shrink std
+4.321200425914e-05,covariance,shrink basis
+0.13396357694133,correlation,no shrinkage
+0.0147003341144869,correlation,shrink std
+0.014246612926459,correlation,shrink basis
+0.182710008021922,partial correlation,no shrinkage
+0.00327302634448417,partial correlation,shrink std
+0.00268016471747793,partial correlation,shrink basis
+0.000583092215642462,covariance,no shrinkage
+3.70609441468836e-05,covariance,shrink std
+3.50617852093159e-05,covariance,shrink basis
+0.143472196389811,correlation,no shrinkage
+0.0116509626794279,correlation,shrink std
+0.0113220189191077,correlation,shrink basis
+0.153719530070452,partial correlation,no shrinkage
+0.00387725498310852,partial correlation,shrink std
+0.00322754347798876,partial correlation,shrink basis
+0.000605956216212478,covariance,no shrinkage
+3.49231787085275e-05,covariance,shrink std
+3.22640300970636e-05,covariance,shrink basis
+0.123850459172829,correlation,no shrinkage
+0.00962862625595276,correlation,shrink std
+0.00932035787079861,correlation,shrink basis
+0.147462753737985,partial correlation,no shrinkage
+0.00267870669093761,partial correlation,shrink std
+0.00208383201312034,partial correlation,shrink basis
+0.000628831193411928,covariance,no shrinkage
+4.02368217128927e-05,covariance,shrink std
+3.7634836389233e-05,covariance,shrink basis
+0.133150909091032,correlation,no shrinkage
+0.0142215564572114,correlation,shrink std
+0.0132712985744017,correlation,shrink basis
+0.160654650504358,partial correlation,no shrinkage
+0.00330598411370837,partial correlation,shrink std
+0.00262960312243089,partial correlation,shrink basis
+0.000852386978590514,covariance,no shrinkage
+6.19119710787939e-05,covariance,shrink std
+6.38645501224323e-05,covariance,shrink basis
+0.149700220713244,correlation,no shrinkage
+0.0215516420219928,correlation,shrink std
+0.0214266663662274,correlation,shrink basis
+0.176397340450112,partial correlation,no shrinkage
+0.00346394393072927,partial correlation,shrink std
+0.0029649657376294,partial correlation,shrink basis
+0.000681822843024008,covariance,no shrinkage
+4.81270279063951e-05,covariance,shrink std
+4.557851078777e-05,covariance,shrink basis
+0.149263468534975,correlation,no shrinkage
+0.0127010310029757,correlation,shrink std
+0.0122552960645315,correlation,shrink basis
+0.171330125650653,partial correlation,no shrinkage
+0.0035693170233528,partial correlation,shrink std
+0.00287501153590136,partial correlation,shrink basis
+0.000391137713781727,covariance,no shrinkage
+3.07987455431783e-05,covariance,shrink std
+2.97148776570942e-05,covariance,shrink basis
+0.137711590826134,correlation,no shrinkage
+0.0132131848254084,correlation,shrink std
+0.0132912607542367,correlation,shrink basis
+0.157668883827597,partial correlation,no shrinkage
+0.00351791350004878,partial correlation,shrink std
+0.00290128707792793,partial correlation,shrink basis
+0.000421347308850296,covariance,no shrinkage
+3.85016164243646e-05,covariance,shrink std
+3.80691452087485e-05,covariance,shrink basis
+0.138985929584663,correlation,no shrinkage
+0.0157381379931786,correlation,shrink std
+0.0158169358316806,correlation,shrink basis
+0.162264160948482,partial correlation,no shrinkage
+0.00344364736229959,partial correlation,shrink std
+0.00287948403823436,partial correlation,shrink basis
+0.000422070429816976,covariance,no shrinkage
+3.60789410201172e-05,covariance,shrink std
+3.3926026742887e-05,covariance,shrink basis
+0.132239824662507,correlation,no shrinkage
+0.0114077299410663,correlation,shrink std
+0.0112347823447845,correlation,shrink basis
+0.151718345095208,partial correlation,no shrinkage
+0.00347767306371965,partial correlation,shrink std
+0.00281463300719479,partial correlation,shrink basis
+0.000299683101287324,covariance,no shrinkage
+3.10460834910712e-05,covariance,shrink std
+3.05432174536689e-05,covariance,shrink basis
+0.139175760534442,correlation,no shrinkage
+0.0126333463121853,correlation,shrink std
+0.012920790064579,correlation,shrink basis
+0.167775762402098,partial correlation,no shrinkage
+0.0033748571579316,partial correlation,shrink std
+0.00282609120961023,partial correlation,shrink basis
+0.000476058966694274,covariance,no shrinkage
+4.62094657405687e-05,covariance,shrink std
+4.33796876743944e-05,covariance,shrink basis
+0.13361819079908,correlation,no shrinkage
+0.0147374575426651,correlation,shrink std
+0.014063480051786,correlation,shrink basis
+0.14824008525017,partial correlation,no shrinkage
+0.00329077503828518,partial correlation,shrink std
+0.00251834865156834,partial correlation,shrink basis
+0.000786619194849834,covariance,no shrinkage
+5.47911064440771e-05,covariance,shrink std
+4.84348879947158e-05,covariance,shrink basis
+0.136675550506124,correlation,no shrinkage
+0.0162631835253065,correlation,shrink std
+0.0148676402597569,correlation,shrink basis
+0.159790927990041,partial correlation,no shrinkage
+0.0036479483416936,partial correlation,shrink std
+0.00283227089739548,partial correlation,shrink basis
+0.000446636150822937,covariance,no shrinkage
+3.81976848572128e-05,covariance,shrink std
+3.53521558390748e-05,covariance,shrink basis
+0.14534762542011,correlation,no shrinkage
+0.0137431183613212,correlation,shrink std
+0.0128912928344873,correlation,shrink basis
+0.155892240255103,partial correlation,no shrinkage
+0.00360377710077844,partial correlation,shrink std
+0.00283948480788207,partial correlation,shrink basis
+0.000622194885136688,covariance,no shrinkage
+4.8721868550964e-05,covariance,shrink std
+4.82805991369776e-05,covariance,shrink basis
+0.13250159460296,correlation,no shrinkage
+0.0144269574636526,correlation,shrink std
+0.0144501824188799,correlation,shrink basis
+0.173243067215965,partial correlation,no shrinkage
+0.00325232552432051,partial correlation,shrink std
+0.0027132919911004,partial correlation,shrink basis
+0.000633384252643685,covariance,no shrinkage
+4.36025242515492e-05,covariance,shrink std
+4.62890414144727e-05,covariance,shrink basis
+0.137197449092281,correlation,no shrinkage
+0.014288842090449,correlation,shrink std
+0.0153618466955377,correlation,shrink basis
+0.159847991436979,partial correlation,no shrinkage
+0.00339988977261737,partial correlation,shrink std
+0.00289709014243161,partial correlation,shrink basis
+0.000486656889753017,covariance,no shrinkage
+4.72650378603574e-05,covariance,shrink std
+4.57891621975919e-05,covariance,shrink basis
+0.13769766686315,correlation,no shrinkage
+0.018587833720063,correlation,shrink std
+0.0189539880561524,correlation,shrink basis
+0.157672945266226,partial correlation,no shrinkage
+0.0032423186959702,partial correlation,shrink std
+0.00257919378340157,partial correlation,shrink basis
+0.000764360542835566,covariance,no shrinkage
+8.51130011934774e-05,covariance,shrink std
+8.52688641712343e-05,covariance,shrink basis
+0.159541905238479,correlation,no shrinkage
+0.0217788073974586,correlation,shrink std
+0.0204601472509817,correlation,shrink basis
+0.168839109810649,partial correlation,no shrinkage
+0.00448256473608152,partial correlation,shrink std
+0.00380026012710249,partial correlation,shrink basis
+0.000350881548207173,covariance,no shrinkage
+2.13693070794007e-05,covariance,shrink std
+2.03476554989325e-05,covariance,shrink basis
+0.130191951572911,correlation,no shrinkage
+0.0121608869645517,correlation,shrink std
+0.0119675393584085,correlation,shrink basis
+0.148884427482639,partial correlation,no shrinkage
+0.00263739546477606,partial correlation,shrink std
+0.0021295844575583,partial correlation,shrink basis
+0.00046920808439705,covariance,no shrinkage
+4.07672985336333e-05,covariance,shrink std
+3.60941997151767e-05,covariance,shrink basis
+0.136522394021378,correlation,no shrinkage
+0.0176656720259001,correlation,shrink std
+0.0170349117858127,correlation,shrink basis
+0.17372446446775,partial correlation,no shrinkage
+0.00361968073852237,partial correlation,shrink std
+0.002757589809605,partial correlation,shrink basis
+0.000491951225574115,covariance,no shrinkage
+5.74453272588023e-05,covariance,shrink std
+5.42833643451119e-05,covariance,shrink basis
+0.150986423287918,correlation,no shrinkage
+0.0190824505004851,correlation,shrink std
+0.0188812422243112,correlation,shrink basis
+0.158391809493138,partial correlation,no shrinkage
+0.00451512797311763,partial correlation,shrink std
+0.00386138459172565,partial correlation,shrink basis
+0.000614846983772917,covariance,no shrinkage
+2.78289591346302e-05,covariance,shrink std
+2.57662229631364e-05,covariance,shrink basis
+0.124467212111926,correlation,no shrinkage
+0.0105513763132554,correlation,shrink std
+0.0100097012850441,correlation,shrink basis
+0.173771914737675,partial correlation,no shrinkage
+0.00322248917765235,partial correlation,shrink std
+0.00260861942945391,partial correlation,shrink basis
+0.000652180148068372,covariance,no shrinkage
+3.92285573597864e-05,covariance,shrink std
+3.89564112053148e-05,covariance,shrink basis
+0.159896651285087,correlation,no shrinkage
+0.019782934078536,correlation,shrink std
+0.0201255890779492,correlation,shrink basis
+0.166059149944839,partial correlation,no shrinkage
+0.00306244937391427,partial correlation,shrink std
+0.00257140555760087,partial correlation,shrink basis
+0.000532817227281631,covariance,no shrinkage
+5.8061596341427e-05,covariance,shrink std
+5.64162812315976e-05,covariance,shrink basis
+0.144627932065982,correlation,no shrinkage
+0.0163864958305367,correlation,shrink std
+0.0161717947038183,correlation,shrink basis
+0.146516232612433,partial correlation,no shrinkage
+0.00346569507206274,partial correlation,shrink std
+0.00282430693995394,partial correlation,shrink basis
+0.000437209543937985,covariance,no shrinkage
+3.17958832845965e-05,covariance,shrink std
+2.96579070995958e-05,covariance,shrink basis
+0.140573168593855,correlation,no shrinkage
+0.0115231359049955,correlation,shrink std
+0.0111828715544832,correlation,shrink basis
+0.14653605708968,partial correlation,no shrinkage
+0.00336281173230342,partial correlation,shrink std
+0.0026660760073843,partial correlation,shrink basis
+0.000603093578411652,covariance,no shrinkage
+5.86560300601219e-05,covariance,shrink std
+5.16721598748083e-05,covariance,shrink basis
+0.140820197390301,correlation,no shrinkage
+0.0154537265270974,correlation,shrink std
+0.0143375342207395,correlation,shrink basis
+0.153740981332578,partial correlation,no shrinkage
+0.00392021519754371,partial correlation,shrink std
+0.0030721046270012,partial correlation,shrink basis
+0.000636405334726591,covariance,no shrinkage
+4.24910154987272e-05,covariance,shrink std
+4.12321719005314e-05,covariance,shrink basis
+0.126468738217965,correlation,no shrinkage
+0.0106017773499729,correlation,shrink std
+0.010283103701292,correlation,shrink basis
+0.153912430636914,partial correlation,no shrinkage
+0.00392948790402127,partial correlation,shrink std
+0.00326050050679401,partial correlation,shrink basis
+0.000636176454352022,covariance,no shrinkage
+4.03060249424679e-05,covariance,shrink std
+4.8031645718932e-05,covariance,shrink basis
+0.137386241078762,correlation,no shrinkage
+0.0100419509722277,correlation,shrink std
+0.0119087901917916,correlation,shrink basis
+0.157262667336061,partial correlation,no shrinkage
+0.0036043280836885,partial correlation,shrink std
+0.00329349183919293,partial correlation,shrink basis
+0.000683834142107298,covariance,no shrinkage
+4.73259286315398e-05,covariance,shrink std
+4.35400832893059e-05,covariance,shrink basis
+0.139943467351307,correlation,no shrinkage
+0.0157618633287318,correlation,shrink std
+0.015145931283187,correlation,shrink basis
+0.152009651976038,partial correlation,no shrinkage
+0.00366560352173316,partial correlation,shrink std
+0.00291819494991808,partial correlation,shrink basis
+0.000537372550763001,covariance,no shrinkage
+3.52156244988576e-05,covariance,shrink std
+3.34528878009403e-05,covariance,shrink basis
+0.123316966678274,correlation,no shrinkage
+0.0112285908803359,correlation,shrink std
+0.0110627155000044,correlation,shrink basis
+0.145850065607877,partial correlation,no shrinkage
+0.00292630084746445,partial correlation,shrink std
+0.00229982512822386,partial correlation,shrink basis
+0.000526905892699403,covariance,no shrinkage
+4.94466330096601e-05,covariance,shrink std
+4.72906346004219e-05,covariance,shrink basis
+0.151090551532634,correlation,no shrinkage
+0.0184923797588289,correlation,shrink std
+0.0184585419271776,correlation,shrink basis
+0.164648351499853,partial correlation,no shrinkage
+0.00380360315758727,partial correlation,shrink std
+0.0032256137340916,partial correlation,shrink basis
+0.000509708798373182,covariance,no shrinkage
+3.43993907115996e-05,covariance,shrink std
+3.18052678811855e-05,covariance,shrink basis
+0.140610372969375,correlation,no shrinkage
+0.0104612680570631,correlation,shrink std
+0.010763786203682,correlation,shrink basis
+0.161121521308315,partial correlation,no shrinkage
+0.00328265674953316,partial correlation,shrink std
+0.00266631868609656,partial correlation,shrink basis
+0.000470128727213013,covariance,no shrinkage
+3.37610066472489e-05,covariance,shrink std
+3.11464582367358e-05,covariance,shrink basis
+0.131918801300761,correlation,no shrinkage
+0.013117097691054,correlation,shrink std
+0.0121342001648289,correlation,shrink basis
+0.149920837528561,partial correlation,no shrinkage
+0.00316015425382274,partial correlation,shrink std
+0.00252335252061644,partial correlation,shrink basis
+0.00058802675550638,covariance,no shrinkage
+6.11006437231539e-05,covariance,shrink std
+5.81598385419121e-05,covariance,shrink basis
+0.138867247447732,correlation,no shrinkage
+0.0153140231448626,correlation,shrink std
+0.0146165411502605,correlation,shrink basis
+0.173706522313309,partial correlation,no shrinkage
+0.00353052239198933,partial correlation,shrink std
+0.00284048302092943,partial correlation,shrink basis
+0.000789864598595565,covariance,no shrinkage
+7.00144002886263e-05,covariance,shrink std
+6.39225577108435e-05,covariance,shrink basis
+0.138952763509182,correlation,no shrinkage
+0.0214284595569649,correlation,shrink std
+0.0201522895106356,correlation,shrink basis
+0.176977454780109,partial correlation,no shrinkage
+0.00411639497190741,partial correlation,shrink std
+0.00327951920499581,partial correlation,shrink basis
+0.000588047778787831,covariance,no shrinkage
+3.92865211168184e-05,covariance,shrink std
+3.69988286659406e-05,covariance,shrink basis
+0.135755558170522,correlation,no shrinkage
+0.0128243047102289,correlation,shrink std
+0.012630463447388,correlation,shrink basis
+0.168222631157159,partial correlation,no shrinkage
+0.00299930906643552,partial correlation,shrink std
+0.00235743504588719,partial correlation,shrink basis
+0.000506541495093262,covariance,no shrinkage
+3.48415087324719e-05,covariance,shrink std
+3.30130354586133e-05,covariance,shrink basis
+0.123699500886545,correlation,no shrinkage
+0.015556806991694,correlation,shrink std
+0.0152896698453334,correlation,shrink basis
+0.168986089612047,partial correlation,no shrinkage
+0.00371596579435481,partial correlation,shrink std
+0.00302969831889114,partial correlation,shrink basis
+0.000730503370225312,covariance,no shrinkage
+3.8346251523484e-05,covariance,shrink std
+3.49456115940964e-05,covariance,shrink basis
+0.146210723798451,correlation,no shrinkage
+0.0120714301276929,correlation,shrink std
+0.0117055500872911,correlation,shrink basis
+0.186181596582379,partial correlation,no shrinkage
+0.00315006326248865,partial correlation,shrink std
+0.00253728715974731,partial correlation,shrink basis
+0.000832516450641021,covariance,no shrinkage
+6.60403855107946e-05,covariance,shrink std
+7.70863568613204e-05,covariance,shrink basis
+0.152404019512686,correlation,no shrinkage
+0.0199645176930594,correlation,shrink std
+0.0215731278048813,correlation,shrink basis
+0.184757890361631,partial correlation,no shrinkage
+0.00409942795139296,partial correlation,shrink std
+0.00353134287337669,partial correlation,shrink basis
+0.000595515687134925,covariance,no shrinkage
+4.93510673845077e-05,covariance,shrink std
+4.91667608758159e-05,covariance,shrink basis
+0.140302418148483,correlation,no shrinkage
+0.016767826486623,correlation,shrink std
+0.0168414602107947,correlation,shrink basis
+0.158922451867305,partial correlation,no shrinkage
+0.00364646447731594,partial correlation,shrink std
+0.00295983629729273,partial correlation,shrink basis
+0.000440940504430785,covariance,no shrinkage
+3.84576704585224e-05,covariance,shrink std
+3.42515497454947e-05,covariance,shrink basis
+0.144357289977472,correlation,no shrinkage
+0.0137468248248283,correlation,shrink std
+0.01278166189301,correlation,shrink basis
+0.160649190174622,partial correlation,no shrinkage
+0.00355493947435326,partial correlation,shrink std
+0.00282352146477142,partial correlation,shrink basis
+0.000443595544464805,covariance,no shrinkage
+3.33788256467674e-05,covariance,shrink std
+3.17171471909021e-05,covariance,shrink basis
+0.151195464733154,correlation,no shrinkage
+0.0137172804090705,correlation,shrink std
+0.0133333289633162,correlation,shrink basis
+0.15531633859434,partial correlation,no shrinkage
+0.00409525920378952,partial correlation,shrink std
+0.00343093068932781,partial correlation,shrink basis
+0.000612239053242774,covariance,no shrinkage
+5.86847226941641e-05,covariance,shrink std
+5.64348967117579e-05,covariance,shrink basis
+0.161683543710707,correlation,no shrinkage
+0.0233845351612093,correlation,shrink std
+0.0216932183713304,correlation,shrink basis
+0.197411992820791,partial correlation,no shrinkage
+0.00451236441788864,partial correlation,shrink std
+0.00393345547790431,partial correlation,shrink basis
+0.00059205473785358,covariance,no shrinkage
+3.84232091539154e-05,covariance,shrink std
+3.5425976587604e-05,covariance,shrink basis
+0.145921725364681,correlation,no shrinkage
+0.017533698055261,correlation,shrink std
+0.0165709806481077,correlation,shrink basis
+0.170329607874118,partial correlation,no shrinkage
+0.00362571249330897,partial correlation,shrink std
+0.00288061029587442,partial correlation,shrink basis
+0.000528508043015529,covariance,no shrinkage
+4.19085281623503e-05,covariance,shrink std
+3.82544188801701e-05,covariance,shrink basis
+0.143809943284679,correlation,no shrinkage
+0.0159815292753991,correlation,shrink std
+0.0154547613847864,correlation,shrink basis
+0.160309709917553,partial correlation,no shrinkage
+0.00360538776149787,partial correlation,shrink std
+0.00287337956732967,partial correlation,shrink basis
+0.000796327193713136,covariance,no shrinkage
+4.5733646100393e-05,covariance,shrink std
+4.44047177740582e-05,covariance,shrink basis
+0.138125769734252,correlation,no shrinkage
+0.0143986017717139,correlation,shrink std
+0.0144129961117972,correlation,shrink basis
+0.191866597756967,partial correlation,no shrinkage
+0.00344088984958592,partial correlation,shrink std
+0.00278077116363091,partial correlation,shrink basis
+0.000664900769558219,covariance,no shrinkage
+4.30254931242293e-05,covariance,shrink std
+4.41901280358163e-05,covariance,shrink basis
+0.124511720260455,correlation,no shrinkage
+0.0136492880317255,correlation,shrink std
+0.0148203978164261,correlation,shrink basis
+0.164527301103726,partial correlation,no shrinkage
+0.00377779895899337,partial correlation,shrink std
+0.00326113201575869,partial correlation,shrink basis
+0.000519498635824886,covariance,no shrinkage
+4.28766062476447e-05,covariance,shrink std
+4.2451603733649e-05,covariance,shrink basis
+0.134075769392608,correlation,no shrinkage
+0.0179136504961741,correlation,shrink std
+0.0178699727978468,correlation,shrink basis
+0.170150271504411,partial correlation,no shrinkage
+0.004351495448692,partial correlation,shrink std
+0.00375737250798794,partial correlation,shrink basis
+0.000496362601769517,covariance,no shrinkage
+5.71748734860474e-05,covariance,shrink std
+5.46665054230314e-05,covariance,shrink basis
+0.137364275111514,correlation,no shrinkage
+0.0169876762864666,correlation,shrink std
+0.0161944728985721,correlation,shrink basis
+0.174188306433512,partial correlation,no shrinkage
+0.00429410120680675,partial correlation,shrink std
+0.0035919731798917,partial correlation,shrink basis
+0.000620377821764615,covariance,no shrinkage
+5.00051059238076e-05,covariance,shrink std
+5.05684073087944e-05,covariance,shrink basis
+0.152634168506584,correlation,no shrinkage
+0.0152444671641523,correlation,shrink std
+0.0157874852835606,correlation,shrink basis
+0.169452411453891,partial correlation,no shrinkage
+0.00428012837016066,partial correlation,shrink std
+0.00369633614693922,partial correlation,shrink basis
+0.000449006983728165,covariance,no shrinkage
+3.56669897312966e-05,covariance,shrink std
+3.29413986564362e-05,covariance,shrink basis
+0.145717733515736,correlation,no shrinkage
+0.0130411798227637,correlation,shrink std
+0.0125898469778035,correlation,shrink basis
+0.157731201770811,partial correlation,no shrinkage
+0.00386664309886067,partial correlation,shrink std
+0.00316389777469871,partial correlation,shrink basis
+0.00056692432975563,covariance,no shrinkage
+3.28470658204195e-05,covariance,shrink std
+3.19205279154434e-05,covariance,shrink basis
+0.139080309841702,correlation,no shrinkage
+0.0131296181670138,correlation,shrink std
+0.0130537476102003,correlation,shrink basis
+0.166032839951381,partial correlation,no shrinkage
+0.00339114636448727,partial correlation,shrink std
+0.00283069670176025,partial correlation,shrink basis
+0.000655886146723819,covariance,no shrinkage
+3.4829876307525e-05,covariance,shrink std
+3.09980651213304e-05,covariance,shrink basis
+0.127609275161928,correlation,no shrinkage
+0.0132598644593627,correlation,shrink std
+0.0129458868797901,correlation,shrink basis
+0.170696912455904,partial correlation,no shrinkage
+0.00344726149230444,partial correlation,shrink std
+0.00274192221276706,partial correlation,shrink basis
+0.000459040368713247,covariance,no shrinkage
+3.35993484351945e-05,covariance,shrink std
+3.26308036859512e-05,covariance,shrink basis
+0.131178109912335,correlation,no shrinkage
+0.0136309260261036,correlation,shrink std
+0.0138248017884718,correlation,shrink basis
+0.150594135049532,partial correlation,no shrinkage
+0.00363679880942406,partial correlation,shrink std
+0.00300467913025012,partial correlation,shrink basis
+0.000426427179676942,covariance,no shrinkage
+3.4399950546547e-05,covariance,shrink std
+3.21844996574291e-05,covariance,shrink basis
+0.134906253466466,correlation,no shrinkage
+0.0155069678122314,correlation,shrink std
+0.0151759037469799,correlation,shrink basis
+0.161317112813153,partial correlation,no shrinkage
+0.00365455406035714,partial correlation,shrink std
+0.00301607815908534,partial correlation,shrink basis
+0.000258336224728651,covariance,no shrinkage
+1.57996634331091e-05,covariance,shrink std
+1.48337523948155e-05,covariance,shrink basis
+0.144694088485383,correlation,no shrinkage
+0.0106740056506926,correlation,shrink std
+0.0105485327936942,correlation,shrink basis
+0.164055812014993,partial correlation,no shrinkage
+0.00331922050045366,partial correlation,shrink std
+0.00273124515581659,partial correlation,shrink basis
+0.00048864698924393,covariance,no shrinkage
+4.245923393794e-05,covariance,shrink std
+3.92368192306018e-05,covariance,shrink basis
+0.145089835025913,correlation,no shrinkage
+0.0154775755532652,correlation,shrink std
+0.0147357880908516,correlation,shrink basis
+0.164386762977334,partial correlation,no shrinkage
+0.00383414524967831,partial correlation,shrink std
+0.00310888936242004,partial correlation,shrink basis
+0.000433865591918597,covariance,no shrinkage
+3.56261607647422e-05,covariance,shrink std
+3.36738404918911e-05,covariance,shrink basis
+0.142811239873944,correlation,no shrinkage
+0.0117958477320939,correlation,shrink std
+0.0112707622064058,correlation,shrink basis
+0.174391030035094,partial correlation,no shrinkage
+0.00383992257440976,partial correlation,shrink std
+0.00325944693514156,partial correlation,shrink basis
+0.000447253389345881,covariance,no shrinkage
+3.40365927694146e-05,covariance,shrink std
+3.66235750003052e-05,covariance,shrink basis
+0.13945699683944,correlation,no shrinkage
+0.0117556888431816,correlation,shrink std
+0.013419513056218,correlation,shrink basis
+0.161311975025901,partial correlation,no shrinkage
+0.00360474097880974,partial correlation,shrink std
+0.00323839273883225,partial correlation,shrink basis
+0.000365392307454913,covariance,no shrinkage
+2.9612920169079e-05,covariance,shrink std
+2.69087746168244e-05,covariance,shrink basis
+0.138811969272251,correlation,no shrinkage
+0.0107344737699217,correlation,shrink std
+0.010053104686293,correlation,shrink basis
+0.149263009515133,partial correlation,no shrinkage
+0.0034030401348195,partial correlation,shrink std
+0.00276081527190628,partial correlation,shrink basis
+0.000607596101840704,covariance,no shrinkage
+4.40843584845451e-05,covariance,shrink std
+4.06420699133551e-05,covariance,shrink basis
+0.149131552767013,correlation,no shrinkage
+0.0165961701537241,correlation,shrink std
+0.0158978539997988,correlation,shrink basis
+0.176193947511091,partial correlation,no shrinkage
+0.00365269117384329,partial correlation,shrink std
+0.00296657009864351,partial correlation,shrink basis
+0.000396642648017623,covariance,no shrinkage
+4.60876074886735e-05,covariance,shrink std
+4.39842738456513e-05,covariance,shrink basis
+0.147082533609403,correlation,no shrinkage
+0.0217859857600432,correlation,shrink std
+0.0215599427621051,correlation,shrink basis
+0.173909837963739,partial correlation,no shrinkage
+0.00418976321169098,partial correlation,shrink std
+0.00346908620333128,partial correlation,shrink basis
+0.000648458304393352,covariance,no shrinkage
+6.23505747769038e-05,covariance,shrink std
+6.20662899591229e-05,covariance,shrink basis
+0.144908613459589,correlation,no shrinkage
+0.0166924190507886,correlation,shrink std
+0.0168684993257975,correlation,shrink basis
+0.1754640422015,partial correlation,no shrinkage
+0.00356826960752905,partial correlation,shrink std
+0.00300407300824757,partial correlation,shrink basis
+0.000712326988114777,covariance,no shrinkage
+4.68399085615286e-05,covariance,shrink std
+4.44626985598107e-05,covariance,shrink basis
+0.141264636582669,correlation,no shrinkage
+0.0154842992231211,correlation,shrink std
+0.0149688445364782,correlation,shrink basis
+0.177204617094448,partial correlation,no shrinkage
+0.00299756971349123,partial correlation,shrink std
+0.00237639440944593,partial correlation,shrink basis
+0.000370155155702874,covariance,no shrinkage
+3.92334526156295e-05,covariance,shrink std
+3.6796268560613e-05,covariance,shrink basis
+0.130447569596165,correlation,no shrinkage
+0.0149863068371291,correlation,shrink std
+0.0143270494711294,correlation,shrink basis
+0.156915507202807,partial correlation,no shrinkage
+0.0039996371720782,partial correlation,shrink std
+0.00326846068760403,partial correlation,shrink basis
+0.000505244572715802,covariance,no shrinkage
+3.87172601595691e-05,covariance,shrink std
+3.62291654788772e-05,covariance,shrink basis
+0.133834573171474,correlation,no shrinkage
+0.0140994592356519,correlation,shrink std
+0.0133794224056055,correlation,shrink basis
+0.168371891200681,partial correlation,no shrinkage
+0.0034668188304902,partial correlation,shrink std
+0.00275699830227525,partial correlation,shrink basis
+0.00078806186138295,covariance,no shrinkage
+4.93832643504631e-05,covariance,shrink std
+4.75264139255867e-05,covariance,shrink basis
+0.146457691392127,correlation,no shrinkage
+0.0146477952077844,correlation,shrink std
+0.0144207219444315,correlation,shrink basis
+0.187883782171928,partial correlation,no shrinkage
+0.00355880800473149,partial correlation,shrink std
+0.00293714075290131,partial correlation,shrink basis
+0.000739746858492658,covariance,no shrinkage
+4.47968662341197e-05,covariance,shrink std
+3.46125245079724e-05,covariance,shrink basis
+0.137598257494216,correlation,no shrinkage
+0.0132636692007437,correlation,shrink std
+0.0119365453815455,correlation,shrink basis
+0.177247382723795,partial correlation,no shrinkage
+0.00396854375487924,partial correlation,shrink std
+0.0030255618681624,partial correlation,shrink basis
+0.000433128072686716,covariance,no shrinkage
+3.62212641326666e-05,covariance,shrink std
+3.23765093861044e-05,covariance,shrink basis
+0.126697081077378,correlation,no shrinkage
+0.0122408730596574,correlation,shrink std
+0.0110519206868509,correlation,shrink basis
+0.155431103400831,partial correlation,no shrinkage
+0.00362532297025806,partial correlation,shrink std
+0.0028238540328705,partial correlation,shrink basis
+0.000707595004373768,covariance,no shrinkage
+4.62548097050132e-05,covariance,shrink std
+3.69002557373237e-05,covariance,shrink basis
+0.158095925771967,correlation,no shrinkage
+0.0135007599077276,correlation,shrink std
+0.011678437005403,correlation,shrink basis
+0.16243316997813,partial correlation,no shrinkage
+0.00407555050809517,partial correlation,shrink std
+0.00322935138119061,partial correlation,shrink basis
+0.000778313692339809,covariance,no shrinkage
+7.43124223181732e-05,covariance,shrink std
+7.41635555398503e-05,covariance,shrink basis
+0.138522882076619,correlation,no shrinkage
+0.021791671626972,correlation,shrink std
+0.0219833676732287,correlation,shrink basis
+0.165281563898499,partial correlation,no shrinkage
+0.00418583362366208,partial correlation,shrink std
+0.00354718237229432,partial correlation,shrink basis
+0.000511413758750236,covariance,no shrinkage
+4.39033599634721e-05,covariance,shrink std
+3.70607643837654e-05,covariance,shrink basis
+0.150964712644733,correlation,no shrinkage
+0.0186010163898989,correlation,shrink std
+0.0167013572602373,correlation,shrink basis
+0.172711013034387,partial correlation,no shrinkage
+0.00409765425428298,partial correlation,shrink std
+0.00324815681699083,partial correlation,shrink basis
+0.000322305645980946,covariance,no shrinkage
+3.30367428790556e-05,covariance,shrink std
+3.31867734828309e-05,covariance,shrink basis
+0.146606999652809,correlation,no shrinkage
+0.0146729916661369,correlation,shrink std
+0.0155925216909712,correlation,shrink basis
+0.145367176034446,partial correlation,no shrinkage
+0.00350415078484709,partial correlation,shrink std
+0.00302805720528236,partial correlation,shrink basis
+0.000616817294456424,covariance,no shrinkage
+4.34339719592517e-05,covariance,shrink std
+3.79688658709748e-05,covariance,shrink basis
+0.130327706116929,correlation,no shrinkage
+0.0128764422901313,correlation,shrink std
+0.0115353752352536,correlation,shrink basis
+0.157048139345181,partial correlation,no shrinkage
+0.00408615412178755,partial correlation,shrink std
+0.00316397263363722,partial correlation,shrink basis
+0.000443113741696021,covariance,no shrinkage
+4.49628443928121e-05,covariance,shrink std
+4.32469147041953e-05,covariance,shrink basis
+0.118744853730135,correlation,no shrinkage
+0.0177871348915033,correlation,shrink std
+0.0176395705114136,correlation,shrink basis
+0.163610659766027,partial correlation,no shrinkage
+0.00387977193796111,partial correlation,shrink std
+0.00318305957869114,partial correlation,shrink basis
+0.000711704601482628,covariance,no shrinkage
+4.28991761982424e-05,covariance,shrink std
+3.94935601620942e-05,covariance,shrink basis
+0.140751825332734,correlation,no shrinkage
+0.0110823296726554,correlation,shrink std
+0.0105214441511454,correlation,shrink basis
+0.171483276984778,partial correlation,no shrinkage
+0.00361693238215508,partial correlation,shrink std
+0.00296470809202225,partial correlation,shrink basis
+0.000522025639302311,covariance,no shrinkage
+3.37650927794282e-05,covariance,shrink std
+3.07216949970928e-05,covariance,shrink basis
+0.139962398328359,correlation,no shrinkage
+0.0166253786474311,correlation,shrink std
+0.0149490992580756,correlation,shrink basis
+0.16301705422344,partial correlation,no shrinkage
+0.00355503157078968,partial correlation,shrink std
+0.00279916141917791,partial correlation,shrink basis
+0.000420478566942069,covariance,no shrinkage
+2.8596121972311e-05,covariance,shrink std
+2.61673162892016e-05,covariance,shrink basis
+0.146683365702637,correlation,no shrinkage
+0.0106112663008047,correlation,shrink std
+0.0101374419062699,correlation,shrink basis
+0.148340330752974,partial correlation,no shrinkage
+0.00335533432409092,partial correlation,shrink std
+0.00267558925575357,partial correlation,shrink basis
+0.000402594033269105,covariance,no shrinkage
+2.58734437958355e-05,covariance,shrink std
+2.46588161159128e-05,covariance,shrink basis
+0.137702853337956,correlation,no shrinkage
+0.0104991689739326,correlation,shrink std
+0.0101554637006496,correlation,shrink basis
+0.15483491548032,partial correlation,no shrinkage
+0.00329394444570311,partial correlation,shrink std
+0.00272919568038119,partial correlation,shrink basis
+0.000403587618282003,covariance,no shrinkage
+4.32282069242838e-05,covariance,shrink std
+3.66678041459382e-05,covariance,shrink basis
+0.142254319040859,correlation,no shrinkage
+0.0165648766146827,correlation,shrink std
+0.0139279564575794,correlation,shrink basis
+0.190673077392524,partial correlation,no shrinkage
+0.00431598240347585,partial correlation,shrink std
+0.00337496145478809,partial correlation,shrink basis
+0.000616468633115789,covariance,no shrinkage
+4.61295609623704e-05,covariance,shrink std
+4.27894901882955e-05,covariance,shrink basis
+0.130953738656514,correlation,no shrinkage
+0.014252998829198,correlation,shrink std
+0.0135237870972544,correlation,shrink basis
+0.158328193569246,partial correlation,no shrinkage
+0.00328083246081149,partial correlation,shrink std
+0.00250168522619494,partial correlation,shrink basis
+0.000501147571518887,covariance,no shrinkage
+6.80359933893563e-05,covariance,shrink std
+6.27118679211614e-05,covariance,shrink basis
+0.153413791914965,correlation,no shrinkage
+0.02130538475559,correlation,shrink std
+0.020710915940691,correlation,shrink basis
+0.158220846797513,partial correlation,no shrinkage
+0.00428447341498932,partial correlation,shrink std
+0.00363592652601167,partial correlation,shrink basis
+0.000313894694042202,covariance,no shrinkage
+3.33058144109754e-05,covariance,shrink std
+3.05481042535929e-05,covariance,shrink basis
+0.147680791984044,correlation,no shrinkage
+0.0156268368859665,correlation,shrink std
+0.0143983535836107,correlation,shrink basis
+0.152478760152312,partial correlation,no shrinkage
+0.00358565290488113,partial correlation,shrink std
+0.0027443666233392,partial correlation,shrink basis
+0.000589818457861398,covariance,no shrinkage
+4.25238243611972e-05,covariance,shrink std
+3.94428723041888e-05,covariance,shrink basis
+0.132876339515649,correlation,no shrinkage
+0.0115328085975197,correlation,shrink std
+0.0108909213974682,correlation,shrink basis
+0.149897725236843,partial correlation,no shrinkage
+0.00355863153386069,partial correlation,shrink std
+0.00284445614923872,partial correlation,shrink basis
+0.000412475266668017,covariance,no shrinkage
+3.98809961647257e-05,covariance,shrink std
+3.84455285455341e-05,covariance,shrink basis
+0.141488466308454,correlation,no shrinkage
+0.0171369012827616,correlation,shrink std
+0.0167463316687265,correlation,shrink basis
+0.173574390809173,partial correlation,no shrinkage
+0.00370380520885431,partial correlation,shrink std
+0.00315090502379107,partial correlation,shrink basis
+0.000613991936736914,covariance,no shrinkage
+3.44033975038299e-05,covariance,shrink std
+2.97702611078256e-05,covariance,shrink basis
+0.141198621390874,correlation,no shrinkage
+0.0129218014097558,correlation,shrink std
+0.011871442043452,correlation,shrink basis
+0.166987772137906,partial correlation,no shrinkage
+0.00339721286039595,partial correlation,shrink std
+0.00259910929488336,partial correlation,shrink basis
+0.000647489668725667,covariance,no shrinkage
+3.50829651330603e-05,covariance,shrink std
+3.41433498275561e-05,covariance,shrink basis
+0.140606453578874,correlation,no shrinkage
+0.0134912632016682,correlation,shrink std
+0.014230823110787,correlation,shrink basis
+0.170621208502521,partial correlation,no shrinkage
+0.00355876740636022,partial correlation,shrink std
+0.0029996189200601,partial correlation,shrink basis
+0.000589332245827306,covariance,no shrinkage
+4.95286612596154e-05,covariance,shrink std
+4.75130977610072e-05,covariance,shrink basis
+0.13607254433699,correlation,no shrinkage
+0.0161395245544165,correlation,shrink std
+0.0156439471609708,correlation,shrink basis
+0.164788624823723,partial correlation,no shrinkage
+0.00405819866515987,partial correlation,shrink std
+0.00341553067020138,partial correlation,shrink basis
+0.000594594764425335,covariance,no shrinkage
+2.37766521964046e-05,covariance,shrink std
+2.24936482670409e-05,covariance,shrink basis
+0.133424469689904,correlation,no shrinkage
+0.0105528307988047,correlation,shrink std
+0.0102387809349511,correlation,shrink basis
+0.147152432308965,partial correlation,no shrinkage
+0.00299895067836839,partial correlation,shrink std
+0.0023861284866298,partial correlation,shrink basis
+0.000642287645249721,covariance,no shrinkage
+3.80852559792567e-05,covariance,shrink std
+3.74644901185851e-05,covariance,shrink basis
+0.14664549180715,correlation,no shrinkage
+0.0182157214238915,correlation,shrink std
+0.0172267553665948,correlation,shrink basis
+0.193950002710349,partial correlation,no shrinkage
+0.00332708068797336,partial correlation,shrink std
+0.00275935631548234,partial correlation,shrink basis
+0.000619798939086871,covariance,no shrinkage
+4.91750894053892e-05,covariance,shrink std
+4.75008161142314e-05,covariance,shrink basis
+0.134313941417367,correlation,no shrinkage
+0.0128453777197841,correlation,shrink std
+0.012588195989637,correlation,shrink basis
+0.156024979767324,partial correlation,no shrinkage
+0.00384981823041679,partial correlation,shrink std
+0.00324091753602644,partial correlation,shrink basis
+0.000792291087085245,covariance,no shrinkage
+3.79941909808845e-05,covariance,shrink std
+3.64832078573783e-05,covariance,shrink basis
+0.143910304007476,correlation,no shrinkage
+0.0118608336933876,correlation,shrink std
+0.0118173470575153,correlation,shrink basis
+0.151027593444655,partial correlation,no shrinkage
+0.00320020300548803,partial correlation,shrink std
+0.00260560586803573,partial correlation,shrink basis
+0.000652758167443928,covariance,no shrinkage
+4.14838976458708e-05,covariance,shrink std
+4.00261204283549e-05,covariance,shrink basis
+0.140101551170039,correlation,no shrinkage
+0.0150196864702231,correlation,shrink std
+0.0147154897245955,correlation,shrink basis
+0.172367422629612,partial correlation,no shrinkage
+0.00358986625672143,partial correlation,shrink std
+0.00298238712873297,partial correlation,shrink basis
+0.000541938964884029,covariance,no shrinkage
+3.96018625001278e-05,covariance,shrink std
+3.76805500262915e-05,covariance,shrink basis
+0.130290705218306,correlation,no shrinkage
+0.0162988270544107,correlation,shrink std
+0.0161728105068981,correlation,shrink basis
+0.161099965403389,partial correlation,no shrinkage
+0.00339445050866859,partial correlation,shrink std
+0.00268171329013478,partial correlation,shrink basis
+0.000444991155439873,covariance,no shrinkage
+3.56987709174848e-05,covariance,shrink std
+3.2494000154701e-05,covariance,shrink basis
+0.141493282295944,correlation,no shrinkage
+0.0149011876316121,correlation,shrink std
+0.0146876410210739,correlation,shrink basis
+0.15421697450482,partial correlation,no shrinkage
+0.0040440464804311,partial correlation,shrink std
+0.0032640103336062,partial correlation,shrink basis
+0.000544061315942693,covariance,no shrinkage
+4.50620239863737e-05,covariance,shrink std
+4.45278649985255e-05,covariance,shrink basis
+0.142535161164722,correlation,no shrinkage
+0.0134502249294236,correlation,shrink std
+0.013617000840438,correlation,shrink basis
+0.199068613123654,partial correlation,no shrinkage
+0.00342185861090551,partial correlation,shrink std
+0.00285459308980977,partial correlation,shrink basis
+0.000623577112554345,covariance,no shrinkage
+4.08292458186141e-05,covariance,shrink std
+3.68971244181152e-05,covariance,shrink basis
+0.13813813272275,correlation,no shrinkage
+0.0139990420687033,correlation,shrink std
+0.0137021205936436,correlation,shrink basis
+0.160055973088545,partial correlation,no shrinkage
+0.00378593048275568,partial correlation,shrink std
+0.0030126416263715,partial correlation,shrink basis
+0.000644001070078573,covariance,no shrinkage
+5.36961855221675e-05,covariance,shrink std
+5.29476149178389e-05,covariance,shrink basis
+0.152628943139712,correlation,no shrinkage
+0.0171520079188554,correlation,shrink std
+0.0173895088302684,correlation,shrink basis
+0.187778004596353,partial correlation,no shrinkage
+0.00395803307393102,partial correlation,shrink std
+0.00337341478366445,partial correlation,shrink basis
+0.000425008967248475,covariance,no shrinkage
+4.23107171591412e-05,covariance,shrink std
+4.0196547050144e-05,covariance,shrink basis
+0.146468666688497,correlation,no shrinkage
+0.016301764292973,correlation,shrink std
+0.0158742014239801,correlation,shrink basis
+0.164252651238043,partial correlation,no shrinkage
+0.00354910316092686,partial correlation,shrink std
+0.00289487414985105,partial correlation,shrink basis
+0.000639735537905691,covariance,no shrinkage
+4.59754300565911e-05,covariance,shrink std
+4.65583010706972e-05,covariance,shrink basis
+0.155607650315053,correlation,no shrinkage
+0.0178395053388981,correlation,shrink std
+0.0183686520496456,correlation,shrink basis
+0.197051951881058,partial correlation,no shrinkage
+0.00465021981801583,partial correlation,shrink std
+0.0041458019091283,partial correlation,shrink basis
+0.000770300004841187,covariance,no shrinkage
+3.97927973823706e-05,covariance,shrink std
+3.52328652317128e-05,covariance,shrink basis
+0.138740548072623,correlation,no shrinkage
+0.00782792509782955,correlation,shrink std
+0.00721076756562159,correlation,shrink basis
+0.148902396902835,partial correlation,no shrinkage
+0.00337904829300753,partial correlation,shrink std
+0.00267035390027732,partial correlation,shrink basis
+0.000727195927355209,covariance,no shrinkage
+4.66814789108744e-05,covariance,shrink std
+3.93800394635637e-05,covariance,shrink basis
+0.149676428775057,correlation,no shrinkage
+0.0129415316565022,correlation,shrink std
+0.0109917302950549,correlation,shrink basis
+0.157392637884842,partial correlation,no shrinkage
+0.00372563935475221,partial correlation,shrink std
+0.00285591373792145,partial correlation,shrink basis
+0.000773772012186313,covariance,no shrinkage
+4.42522598471396e-05,covariance,shrink std
+4.06598029093086e-05,covariance,shrink basis
+0.129896628050571,correlation,no shrinkage
+0.0100685820253926,correlation,shrink std
+0.00964753108099435,correlation,shrink basis
+0.162778869932348,partial correlation,no shrinkage
+0.00355401107686558,partial correlation,shrink std
+0.00286952994731037,partial correlation,shrink basis
+0.000434744951691649,covariance,no shrinkage
+5.07081524877749e-05,covariance,shrink std
+4.85397440878024e-05,covariance,shrink basis
+0.158600327333783,correlation,no shrinkage
+0.0209432189527425,correlation,shrink std
+0.0207634160869221,correlation,shrink basis
+0.205791202267696,partial correlation,no shrinkage
+0.00410857100341765,partial correlation,shrink std
+0.00347070883211015,partial correlation,shrink basis
+0.000594908646552923,covariance,no shrinkage
+5.99537824489783e-05,covariance,shrink std
+5.99913906535246e-05,covariance,shrink basis
+0.154888868141548,correlation,no shrinkage
+0.0242164057315638,correlation,shrink std
+0.0242444650099485,correlation,shrink basis
+0.189803327416717,partial correlation,no shrinkage
+0.00408426031107426,partial correlation,shrink std
+0.00346521966417431,partial correlation,shrink basis
+0.000713471879779668,covariance,no shrinkage
+4.80172032030852e-05,covariance,shrink std
+4.60255410825236e-05,covariance,shrink basis
+0.141122323593105,correlation,no shrinkage
+0.0158201962184481,correlation,shrink std
+0.0151460582395944,correlation,shrink basis
+0.17660041477936,partial correlation,no shrinkage
+0.00357121348531838,partial correlation,shrink std
+0.00299248056524008,partial correlation,shrink basis
+0.000430465368873478,covariance,no shrinkage
+3.89826800855302e-05,covariance,shrink std
+3.69902358916949e-05,covariance,shrink basis
+0.128396994199666,correlation,no shrinkage
+0.0146129570931894,correlation,shrink std
+0.0144473678237724,correlation,shrink basis
+0.163720528067966,partial correlation,no shrinkage
+0.00340676991640452,partial correlation,shrink std
+0.00278282642958103,partial correlation,shrink basis
+0.000546902356053068,covariance,no shrinkage
+3.40133693684431e-05,covariance,shrink std
+2.73968059130247e-05,covariance,shrink basis
+0.13352175500326,correlation,no shrinkage
+0.0122425846605902,correlation,shrink std
+0.0111142584725295,correlation,shrink basis
+0.185214162803619,partial correlation,no shrinkage
+0.00327389401295303,partial correlation,shrink std
+0.0024375517935802,partial correlation,shrink basis
+0.00060594632909194,covariance,no shrinkage
+3.12449676929986e-05,covariance,shrink std
+2.84448660242503e-05,covariance,shrink basis
+0.132616391356221,correlation,no shrinkage
+0.0123937382837427,correlation,shrink std
+0.0124158319074942,correlation,shrink basis
+0.172748767792664,partial correlation,no shrinkage
+0.00356865083618061,partial correlation,shrink std
+0.00286025681277467,partial correlation,shrink basis
+0.000896496564184721,covariance,no shrinkage
+5.05856763091083e-05,covariance,shrink std
+4.75336164775789e-05,covariance,shrink basis
+0.14260266175604,correlation,no shrinkage
+0.013620868624735,correlation,shrink std
+0.013180319367028,correlation,shrink basis
+0.179577616391708,partial correlation,no shrinkage
+0.00356124982557083,partial correlation,shrink std
+0.00290997380530435,partial correlation,shrink basis
