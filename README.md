@@ -26,4 +26,6 @@ Then, you can find the results in `results/genes770`. You can also reproduce the
 
 
 # References
-Riba, A., Oravecz, A., Durik, M. et al. Cell cycle gene regulationdynamics revealed by RNA velocity and deep-learning. Nat Commun 13, 2865 (2022)
+Jin, S., Notredame, C., & Erb, I. (2022). Compositional Covariance Shrinkage and Regularised Partial Correlations. *arXiv preprint* arXiv:2212.00496.
+
+Riba, A., Oravecz, A., Durik, M., Jiménez, S., Alunni, V., Cerciat, M., ... & Molina, N. (2022). Cell cycle gene regulation dynamics revealed by RNA velocity and deep-learning. *Nature Communications*, 13(1), 2865.
